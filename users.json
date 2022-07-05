@@ -1,0 +1,35 @@
+[
+    {
+        "firstName": "Julius",
+        "lastName": "Macabulos",
+        "age": "22",
+        "gender": "Male",
+        "homeAddress": "Makati City",
+        "email": "juliusmacabulos26@gmail.com",
+        "contactNumber": "09186753355",
+        "userName": "jumac26",
+        "password": "MeganNicole026"
+    },
+    {
+        "firstName": "Alethrome",
+        "lastName": "Diaz",
+        "age": "21",
+        "gender": "Female",
+        "homeAddress": "Makati City",
+        "email": "alethrome@gmail.com",
+        "contactNumber": "09192263565",
+        "userName": "aleth",
+        "password": "123456789"
+    },
+    {
+        "firstName": "Megan",
+        "lastName": "Nicole",
+        "age": "3",
+        "gender": "Female",
+        "homeAddress": "Makati City",
+        "email": "megannicole@gmail.com",
+        "contactNumber": "09564590953",
+        "userName": "megann",
+        "password": "nicole"
+    }
+]
